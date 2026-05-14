@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dugd 👋</h1>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=XXXDoriXXX&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dugd&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugd&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
